@@ -236,6 +236,17 @@ height:40px;
  
   
 }
+.code{
+  background-color: yellowgreen;
+  padding:1rem;
+  margin:1rem;
+  border-radius: 1rem;
+  color:white;
+  font-size: 1.2rem;
+  width:5rem;
+  text-align: center;
+
+}
 
 @media (max-width: 425px) {
   .form {
@@ -244,4 +255,4 @@ height:40px;
 }
 
 
-}
+
